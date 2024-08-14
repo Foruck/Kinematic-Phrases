@@ -6,3 +6,4 @@
 - [x] Kinematic Prompt Generation (KPG) prompts in `kpg.txt`.
 - [ ] Code for KP extraction.
 - [ ] Code for KPG benchmarking.
+- [ ] Code for Kinematic Phrases Base aggregation. 
