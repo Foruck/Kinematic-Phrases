@@ -1,0 +1,24 @@
+left wrist, left elbow, rl
+left wrist, left elbow, fb
+left wrist, left elbow, ud
+right wrist, right elbow, rl
+right wrist, right elbow, fb
+right wrist, right elbow, ud
+left elbow, left shoulder, rl
+left elbow, left shoulder, fb
+left elbow, left shoulder, ud
+right elbow, right shoulder, rl
+right elbow, right shoulder, fb
+right elbow, right shoulder, ud
+left knee, left foot, rl
+left knee, left foot, fb
+left knee, left hip, rl
+left knee, left hip, ud
+right knee, right foot, rl
+right knee, right foot, fb
+right knee, right hip, rl
+right knee, right hip, ud
+head, neck, rl
+head, neck, fb
+head, neck, ud
+neck, pelvis, fb

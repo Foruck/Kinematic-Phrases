@@ -1,0 +1,242 @@
+left wrist, right wrist, rl
+left wrist, right wrist, fb
+left wrist, right wrist, ud
+left wrist, right elbow, rl
+left wrist, right elbow, fb
+left wrist, right elbow, ud
+left wrist, left knee, rl
+left wrist, left knee, fb
+left wrist, left knee, ud
+left wrist, right knee, rl
+left wrist, right knee, fb
+left wrist, right knee, ud
+left wrist, left shoulder, rl
+left wrist, left shoulder, fb
+left wrist, left shoulder, ud
+left wrist, right shoulder, rl
+left wrist, right shoulder, fb
+left wrist, right shoulder, ud
+left wrist, head, rl
+left wrist, head, fb
+left wrist, head, ud
+left wrist, left foot, rl
+left wrist, left foot, fb
+left wrist, right foot, rl
+left wrist, right foot, fb
+left wrist, neck, fb
+left wrist, neck, ud
+left wrist, left hip, rl
+left wrist, left hip, ud
+left wrist, right hip, rl
+left wrist, right hip, ud
+left wrist, pelvis, rl
+left wrist, pelvis, fb
+left wrist, pelvis, ud
+right wrist, left elbow, rl
+right wrist, left elbow, fb
+right wrist, left elbow, ud
+right wrist, left knee, rl
+right wrist, left knee, fb
+right wrist, left knee, ud
+right wrist, right knee, rl
+right wrist, right knee, fb
+right wrist, right knee, ud
+right wrist, left shoulder, rl
+right wrist, left shoulder, fb
+right wrist, left shoulder, ud
+right wrist, right shoulder, rl
+right wrist, right shoulder, fb
+right wrist, right shoulder, ud
+right wrist, head, rl
+right wrist, head, fb
+right wrist, head, ud
+right wrist, left foot, rl
+right wrist, left foot, fb
+right wrist, right foot, rl
+right wrist, right foot, fb
+right wrist, neck, fb
+right wrist, neck, ud
+right wrist, left hip, rl
+right wrist, left hip, ud
+right wrist, right hip, rl
+right wrist, right hip, ud
+right wrist, pelvis, rl
+right wrist, pelvis, fb
+right wrist, pelvis, ud
+left elbow, right elbow, rl
+left elbow, right elbow, fb
+left elbow, right elbow, ud
+left elbow, left knee, rl
+left elbow, left knee, fb
+left elbow, left knee, ud
+left elbow, right knee, rl
+left elbow, right knee, fb
+left elbow, right knee, ud
+left elbow, right shoulder, fb
+left elbow, right shoulder, ud
+left elbow, head, rl
+left elbow, head, fb
+left elbow, head, ud
+left elbow, left foot, rl
+left elbow, left foot, fb
+left elbow, right foot, rl
+left elbow, right foot, fb
+left elbow, neck, fb
+left elbow, neck, ud
+left elbow, left hip, rl
+left elbow, left hip, ud
+left elbow, right hip, rl
+left elbow, right hip, ud
+left elbow, pelvis, rl
+left elbow, pelvis, fb
+left elbow, pelvis, ud
+left elbow, left eye, rl
+left elbow, left eye, fb
+left elbow, right eye, rl
+left elbow, right eye, fb
+right elbow, left knee, rl
+right elbow, left knee, fb
+right elbow, left knee, ud
+right elbow, right knee, rl
+right elbow, right knee, fb
+right elbow, right knee, ud
+right elbow, left shoulder, fb
+right elbow, left shoulder, ud
+right elbow, head, rl
+right elbow, head, fb
+right elbow, head, ud
+right elbow, left foot, rl
+right elbow, left foot, fb
+right elbow, right foot, rl
+right elbow, right foot, fb
+right elbow, neck, fb
+right elbow, neck, ud
+right elbow, left hip, rl
+right elbow, left hip, ud
+right elbow, right hip, rl
+right elbow, right hip, ud
+right elbow, pelvis, rl
+right elbow, pelvis, fb
+right elbow, pelvis, ud
+right elbow, left eye, rl
+right elbow, left eye, fb
+right elbow, right eye, rl
+right elbow, right eye, fb
+left knee, right knee, rl
+left knee, right knee, fb
+left knee, right knee, ud
+left knee, left shoulder, rl
+left knee, left shoulder, fb
+left knee, left shoulder, ud
+left knee, right shoulder, fb
+left knee, right shoulder, ud
+left knee, head, rl
+left knee, head, fb
+left knee, head, ud
+left knee, right foot, rl
+left knee, right foot, fb
+left knee, right foot, ud
+left knee, left foot, ud
+left knee, neck, fb
+left knee, neck, ud
+left knee, right hip, ud
+left knee, pelvis, rl
+left knee, pelvis, fb
+left knee, pelvis, ud
+left knee, left eye, rl
+left knee, left eye, fb
+left knee, right eye, rl
+left knee, right eye, fb
+right knee, left shoulder, fb
+right knee, left shoulder, ud
+right knee, right shoulder, rl
+right knee, right shoulder, fb
+right knee, right shoulder, ud
+right knee, head, rl
+right knee, head, fb
+right knee, head, ud
+right knee, left foot, rl
+right knee, left foot, fb
+right knee, left foot, ud
+right knee, right foot, ud
+right knee, neck, fb
+right knee, neck, ud
+right knee, left hip, ud
+right knee, pelvis, rl
+right knee, pelvis, fb
+right knee, pelvis, ud
+right knee, left eye, rl
+right knee, left eye, fb
+right knee, right eye, rl
+right knee, right eye, fb
+left shoulder, right shoulder, fb
+left shoulder, right shoulder, ud
+left shoulder, head, fb
+left shoulder, head, ud
+left shoulder, left foot, rl
+left shoulder, left foot, fb
+left shoulder, right foot, rl
+left shoulder, right foot, fb
+right shoulder, head, fb
+right shoulder, head, ud
+right shoulder, left foot, rl
+right shoulder, left foot, fb
+right shoulder, right foot, rl
+right shoulder, right foot, fb
+head, left foot, rl
+head, left foot, fb
+head, left foot, ud
+head, right foot, rl
+head, right foot, fb
+head, right foot, ud
+head, left hip, rl
+head, left hip, fb
+head, left hip, ud
+head, right hip, rl
+head, right hip, fb
+head, right hip, ud
+left foot, right foot, rl
+left foot, right foot, fb
+left foot, right foot, ud
+left foot, left hip, rl
+left foot, right hip, rl
+left foot, pelvis, rl
+left foot, pelvis, fb
+left foot, pelvis, ud
+left foot, left eye, rl
+left foot, left eye, fb
+left foot, right eye, rl
+left foot, right eye, fb
+right foot, left hip, rl
+right foot, right hip, rl
+right foot, pelvis, rl
+right foot, pelvis, fb
+right foot, pelvis, ud
+right foot, left eye, rl
+right foot, left eye, fb
+right foot, right eye, rl
+right foot, right eye, fb
+left eye, right eye, fb
+left eye, right eye, ud
+left hip, right hip, fb
+left hip, right hip, ud
+left hip, pelvis, fb
+left hip, pelvis, ud
+right hip, pelvis, fb
+right hip, pelvis, ud
+neck, left hip, fb
+neck, left hip, ud
+neck, right hip, fb
+neck, right hip, ud
+neck, pelvis, ud
+head, pelvis, rl
+head, pelvis, fb
+head, pelvis, ud
+left shoulder, left hip, ud
+left shoulder, right hip, ud
+left shoulder, pelvis, fb
+left shoulder, pelvis, ud
+right shoulder, left hip, ud
+right shoulder, right hip, ud
+right shoulder, pelvis, fb
+right shoulder, pelvis, ud

@@ -1,0 +1,81 @@
+left wrist, right wrist
+left wrist, right elbow
+left wrist, left knee
+left wrist, right knee
+left wrist, left shoulder
+left wrist, right shoulder
+left wrist, head
+left wrist, left foot
+left wrist, right foot
+left wrist, neck
+left wrist, left hip
+left wrist, right hip
+left wrist, pelvis
+right wrist, left elbow
+right wrist, left knee
+right wrist, right knee
+right wrist, left shoulder
+right wrist, right shoulder
+right wrist, head
+right wrist, left foot
+right wrist, right foot
+right wrist, neck
+right wrist, left hip
+right wrist, right hip
+right wrist, pelvis
+left elbow, right elbow
+left elbow, left knee
+left elbow, right knee
+left elbow, right shoulder
+left elbow, head
+left elbow, left foot
+left elbow, right foot
+left elbow, neck
+left elbow, left hip
+left elbow, right hip
+left elbow, pelvis
+right elbow, left knee
+right elbow, right knee
+right elbow, left shoulder
+right elbow, head
+right elbow, left foot
+right elbow, right foot
+right elbow, neck
+right elbow, left hip
+right elbow, right hip
+right elbow, pelvis
+left knee, right knee
+left knee, left shoulder
+left knee, right shoulder
+left knee, head
+left knee, right foot
+left knee, neck
+left knee, right hip
+left knee, pelvis
+right knee, left shoulder
+right knee, right shoulder
+right knee, head
+right knee, left foot
+right knee, neck
+right knee, left hip
+right knee, pelvis
+left shoulder, right shoulder
+left shoulder, head
+left shoulder, left foot
+left shoulder, right foot
+right shoulder, head
+right shoulder, left foot
+right shoulder, right foot
+head, left foot
+head, right foot
+head, left hip
+head, right hip
+left foot, right foot
+left foot, neck
+left foot, left hip
+left foot, right hip
+left foot, pelvis
+right foot, neck
+right foot, left hip
+right foot, right hip
+right foot, pelvis

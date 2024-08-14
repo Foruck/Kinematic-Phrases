@@ -1,0 +1,8 @@
+left arm
+left leg
+left upper arm
+left thigh
+right arm
+right leg
+right upper arm
+right thigh
