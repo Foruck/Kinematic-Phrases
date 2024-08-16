@@ -4,6 +4,7 @@
 
 - [x] Kinematic Pharases list in `KP`.
 - [x] Kinematic Prompt Generation (KPG) prompts in `kpg.txt`.
+- [x] A data sample is available in `sample`.
 - [ ] Code for KP extraction.
 - [ ] Code for KPG benchmarking.
 - [ ] Code for Kinematic Phrases Base aggregation. 
