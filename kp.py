@@ -134,6 +134,8 @@ class JOI2KP(nn.Module):
             indicators[:1, :115] = indicators[1:2, :115]
             indicators[1:, 381:389]  = torch.diff(indicators[:, 381:389], axis=0)
             indicators[:1, 381:389]  = indicators[1:2, 381:389]
+            gvp_indicators = torch.sum((joi[1:, :1] - joi[:-1, :1]).expand(-1, 3, -1) * axis[:-1, :3], dim=-1)
+            indicators = torch.cat((indicators, gvp_indicators), dim=-1)
             indicators[torch.abs(indicators) < 1e-3] = 0
             indicators = torch.sign(indicators)
             return indicators
